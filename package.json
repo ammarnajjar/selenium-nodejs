@@ -1,0 +1,26 @@
+{
+  "name": "WehshopJS",
+  "version": "0.1.0",
+  "description": "WehshopJS",
+  "main": "",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "chai": "*",
+    "chai-as-promised": "*",
+    "chromedriver": "*",
+    "mocha": "*",
+    "mocha-junit-reporter": "*",
+    "selenium-webdriver": "*"
+  }
+}

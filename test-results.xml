@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.228000000000002" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2017-02-09T13:22:42" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Webshopiis Tests:" timestamp="2017-02-09T13:22:42" tests="6" file="C:\Users\anajjar\workspace\WebshopJS\test\homepage-test.js" failures="0" time="12.228000000000002">
+    <testcase name="Webshopiis Tests: test_StartPage_title_equals_webshop_909qs" time="2.593" classname="test_StartPage_title_equals_webshop_909qs">
+    </testcase>
+    <testcase name="Webshopiis Tests: test_Karten_link_existiert" time="1.87" classname="test_Karten_link_existiert">
+    </testcase>
+    <testcase name="Webshopiis Tests: test_Artikel_link_existiert" time="1.878" classname="test_Artikel_link_existiert">
+    </testcase>
+    <testcase name="Webshopiis Tests: test_Abonnements_link_existiert" time="2.139" classname="test_Abonnements_link_existiert">
+    </testcase>
+    <testcase name="Webshopiis Tests: test_Geschenkgutscheine_link_existiert" time="1.903" classname="test_Geschenkgutscheine_link_existiert">
+    </testcase>
+    <testcase name="Webshopiis Tests: test_Mein_Konto_link_existiert" time="1.845" classname="test_Mein_Konto_link_existiert">
+    </testcase>
+  </testsuite>
+</testsuites>
